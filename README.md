@@ -10,9 +10,6 @@ You can host this page on:
 - Netlify
 - Vercel
 
-## 📁 Files Included
-- `africalm-landing-embedded.html` – Fully functional standalone landing page with embedded logo (no external image files required)
-- `README.md` – This file
 
 ## 🧠 Features Highlighted
 - Mood Check-In 🌿  
